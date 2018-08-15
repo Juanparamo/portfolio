@@ -1,0 +1,85 @@
+body{
+    background-image: url("https://www.mediacomponents.com/wp-content/uploads/2013/10/slider-bg33l.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.me{
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 30px;
+    position: inherit;
+}
+
+.first{
+    text-align: center;
+    font-family: 'Aladin', cursive;
+    font-size: 60px;
+}
+
+.style{
+    border: 0px solid ;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/139/911/non_2x/vector-grey-gradient-abstract-background.jpg);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    overflow: auto;
+}
+
+.style2{
+    border: 0px solid ;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/139/911/non_2x/vector-grey-gradient-abstract-background.jpg);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+    overflow: auto;
+    font-family: 'Aladin', cursive;
+}
+
+.cgd{
+    font-size: 25px;
+    text-decoration: none;
+    list-style-type: none;
+    overflow: hidden;
+    float: left;
+    padding-right: 70px;
+    padding-left: 70px;
+    font-family: 'Aladin', cursive;
+}
+
+.heading{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+} 
+
+.about{
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 0px;
+    
+}
+
+.contact{
+    padding-top: 20px;
+    padding-left: 220px;
+    padding-right: 0px;
+}
+
+.cgd2{
+    font-size: 25px;
+    text-decoration: none;
+    list-style-type: none;
+    overflow: hidden;
+    float: left;
+    padding-right: 70px;
+    padding-left: 150px;
+    font-family: 'Aladin', cursive;
+    color: black;
+}

@@ -1,0 +1,61 @@
+body{
+    background-image: url("https://www.mediacomponents.com/wp-content/uploads/2013/10/slider-bg33l.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.style{
+    border: 0px solid ;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/139/911/non_2x/vector-grey-gradient-abstract-background.jpg);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    overflow: auto;
+    font-family: 'Aladin', cursive;
+    font-size: 20px;
+}
+ /* Picture of me */
+.img{
+    position: absolute;
+    left: 400px;
+}
+/* navigation bar */
+.style2{
+    border: 0px solid ;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/139/911/non_2x/vector-grey-gradient-abstract-background.jpg);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+    overflow: auto;
+    font-family: 'Aladin', cursive;
+}
+
+.cgd2{
+    font-size: 25px;
+    text-decoration: none;
+    list-style-type: none;
+    overflow: hidden;
+    float: left;
+    padding-right: 70px;
+    padding-left: 80px;
+    font-family: 'Aladin', cursive;
+    color: black;
+}
+/* End of navigation bar */
+
+/* Pink picture */
+.screenshotPink{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/* 3 alligned pictures */
+.screen3{
+    display: inline;
+    white-space: nowrap;
+    alignment-baseline: central;
+    padding-left: 500px ;
+}
